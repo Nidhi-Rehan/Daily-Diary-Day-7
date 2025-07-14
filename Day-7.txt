@@ -1,4 +1,4 @@
-Date: 19th July 2025
+Date: 26 June 2025
 📘 Topic: CSS Selectors and External CSS
 ⏰ Duration: 1 Hour
 
